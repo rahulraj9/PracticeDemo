@@ -6,3 +6,4 @@ i am creating conflict on remote file and solve it.
 i am changing file in local branch and update on remote branch.
 i am changing file in remote branch and update on local branch.
 "This is end of Line"
+Creating conflict on DevelopmentBranch.

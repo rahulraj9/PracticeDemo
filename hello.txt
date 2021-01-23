@@ -4,4 +4,4 @@ i am changing file on local master and then update on remote master.
 i am creating conflict on local master and solve it.
 i am creating conflict on remote file and solve it.
 i am changing file in local branch and update on remote branch.
-i am changing file in remote branch and update in local branch.
+i am changing file in remote branch and update on local branch.

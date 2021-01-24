@@ -1,4 +1,4 @@
-/****************************************************************************************************
+****************************************************************************************************
 Hi this is Testing file only.
 i am changing file on remote master.
 i am changing file on local master and then update on remote master.
@@ -12,6 +12,7 @@ Creating conflict on DevelopmentBranch.
 **********************************************************************
 Practice Demo
 practice Demo 1
+<<<<<<< HEAD
 ----------------------------------------------------------------------
 practice Demo 11---->Adding in LocalRepo
 practice Demo 12---->Adding in LocalRepo
@@ -20,3 +21,16 @@ practice Demo 11
 practice Demo 12
 ----------------------------------------------------------------------
 Adding in remote repo
+Practice Demo
+practice Demo 1
+Practice Demo
+practice Demo 1
+Practice Demo
+practice Demo 1
+Practice Demo
+practice Demo 1
+Practice Demo
+practice Demo 1
+Practice Demo
+practice Demo 1
+
